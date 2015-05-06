@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(http://localhost/latihan-pondok-programmer/public/roboto-l.woff2) format('woff2'), url(http://localhost/latihan-pondok-programmer/public/roboto-l.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(http://localhost/latihan-pondok-programmer/public/roboto-r.woff2) format('woff2'), url(http://localhost/latihan-pondok-programmer/public/roboto-r.woff) format('woff');
+}
